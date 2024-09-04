@@ -61,4 +61,21 @@
     height: 35vh;
     width: 30rem;
   }
+
+  
+.top-right {
+    position: absolute;
+    top: 93px;
+    left: 53.2rem;
+    height: 40vh;
+    width: 30rem;
+  }
+  
+  .bottom-right {
+    position: absolute;
+    top: 20rem;
+    left: 53.2rem;
+    height: 40vh;
+    width: 30rem;
+  }
   

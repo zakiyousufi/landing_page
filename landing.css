@@ -24,3 +24,21 @@
     margin-left: 4rem;
   }
   
+#nav-img {
+    width: 115px;
+  }
+  
+  #clicked {
+    color: rgb(221, 133, 0);
+  }
+  
+  
+  .pizza-left {
+    width: 40rem;
+    height: 30rem;
+    opacity: 70%;
+    margin-top: -10px;
+    margin-left: -8px;
+  
+  }
+  

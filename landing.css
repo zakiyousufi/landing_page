@@ -41,4 +41,24 @@
     margin-left: -8px;
   
   }
+
+  h1 {
+    position: relative;
+    top: -20rem;
+    left: 30px;
+    width: 148px;
+    word-wrap: break-word;
+    color: #ffb444;
+    font-family: ink free, monospace;
+  
+  }
+  
+  .center {
+    position: absolute;
+    top: 222px;
+    left: 510px;
+    transform: rotate(-90deg);
+    height: 35vh;
+    width: 30rem;
+  }
   

@@ -79,3 +79,19 @@
     width: 30rem;
   }
   
+.icons {
+    width: 98.7%;
+    height: 23vh;
+    background-color: #EDAE50;
+    position: absolute;
+    top: 35rem;
+    left: 0;
+  
+  }
+  
+  p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  

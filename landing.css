@@ -94,4 +94,29 @@
     font-weight: bold;
     font-size: 25px;
   }
+
+  
+.logo {
+    position: relative;
+    left: 35rem;
+    margin-left: 20px;
+  }
+  
+  .footer {
+    position: relative;
+    top: -2rem;
+  }
+  
+  .right {
+    position: absolute;
+    left: 78rem;
+  }
+  
+  
+  .logo-icon {
+    position: relative;
+    left: 28rem;
+    top: -1rem;
+    margin-left: 3rem;
+  }
   

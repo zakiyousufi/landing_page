@@ -7,3 +7,20 @@
     left: -10px;
     overflow: hidden;
   }
+
+  nav {
+    font-size: 30px;
+  }
+  
+  .link-nav {
+    text-decoration: none;
+    color: black;
+    display: inline;
+    justify-content: right;
+    align-items: center;
+    top: -5rem;
+    position: relative;
+    left: 17rem;
+    margin-left: 4rem;
+  }
+  
